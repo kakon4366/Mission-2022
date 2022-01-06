@@ -27,6 +27,10 @@ img{
     color: #F59660;
 }
 
+/* Mission area css */
+.mission-area{
+    margin-bottom: 108px;
+}
 .mission-content .mission-heading h1{
     font-size: 74px;
     font-family: 'Yeseva One', cursive;
@@ -44,5 +48,44 @@ img{
     font-size: 16px;
     display: block;
     margin-top: 34px;
+    color: #747474;
+}
+
+/* Mission-terget css */
+.mission-target-area{
+    margin-bottom: 108px;
+}
+.mission-target-area h1{
+    font-size: 48px;
+    text-align: center;
+}
+.mission-card{
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.card{
+    width: 25%;
+    padding: 48px;
+    border-radius: 26px;
+}
+.mission-card .mission{
+    background: #EDF5F6;
+}
+.mission-card .vission{
+    background: #FFEEEE;
+}
+.mission-card .goal{
+    background: #FFF4D6;
+}
+.card img{
+    width: 50%;
+}
+.card h2{
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+.card p{
+    font-size: 16px;
     color: #747474;
 }
