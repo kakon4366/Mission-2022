@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 80%;
+}
+.flex-box{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 0 5%;
+}
+.mission-btn{
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 14px 34px;
+    background: #FF0066;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 18px;
+}
+.heading-color{
+    color: #F59660;
+}
+
+.mission-content .mission-heading h1{
+    font-size: 74px;
+    font-family: 'Yeseva One', cursive;
+    line-height: 62px;
+}
+.mission-content .mission-heading{
+    border-left: 8px solid #FF0066;
+    padding-left: 18px;
+}
+.mission-content p{
+    font-size: 24px;
+    color: #747474;
+}
+.mission-content span{
+    font-size: 16px;
+    display: block;
+    margin-top: 34px;
+    color: #747474;
+}
