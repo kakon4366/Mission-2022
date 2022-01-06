@@ -15,6 +15,15 @@ section{
     width: 50%;
     padding: 0 5%;
 }
+.img-width{
+    width: 35%;
+    padding: 0 5%;
+}
+.content-width{
+    width: 65%;
+    padding: 0 5%;
+}
+
 .mission-btn{
     font-size: 16px;
     font-weight: 700;
@@ -89,6 +98,9 @@ section{
 }
 
 /* Developer Limit css */
+.limit-area img, .community-area img{
+    width: 100%;
+}
 .limit-content h1, .community-content h1{
     font-size: 36px;
 }
