@@ -29,7 +29,7 @@ img{
 
 /* Mission area css */
 .mission-area{
-    margin-bottom: 108px;
+    margin-bottom: 124px;
 }
 .mission-content .mission-heading h1{
     font-size: 74px;
@@ -53,7 +53,7 @@ img{
 
 /* Mission-terget css */
 .mission-target-area{
-    margin-bottom: 108px;
+    margin-bottom: 124px;
 }
 .mission-target-area h1{
     font-size: 48px;
@@ -88,4 +88,12 @@ img{
 .card p{
     font-size: 16px;
     color: #747474;
+}
+
+/* Developer Limit css */
+.limit-area, .community-area{
+    margin-bottom: 124px;
+}
+.limit-content h1, .community-content h1{
+    font-size: 36px;
 }
