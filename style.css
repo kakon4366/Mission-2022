@@ -5,6 +5,9 @@ body{
 img{
     width: 80%;
 }
+section{
+    margin-bottom: 124px;
+}
 .flex-box{
     display: flex;
 }
@@ -14,6 +17,7 @@ img{
 }
 .mission-btn{
     font-size: 16px;
+    font-weight: 700;
     color: #ffffff;
     text-decoration: none;
     padding: 14px 34px;
@@ -28,9 +32,6 @@ img{
 }
 
 /* Mission area css */
-.mission-area{
-    margin-bottom: 124px;
-}
 .mission-content .mission-heading h1{
     font-size: 74px;
     font-family: 'Yeseva One', cursive;
@@ -52,9 +53,6 @@ img{
 }
 
 /* Mission-terget css */
-.mission-target-area{
-    margin-bottom: 124px;
-}
 .mission-target-area h1{
     font-size: 48px;
     text-align: center;
@@ -91,9 +89,52 @@ img{
 }
 
 /* Developer Limit css */
-.limit-area, .community-area{
-    margin-bottom: 124px;
-}
 .limit-content h1, .community-content h1{
     font-size: 36px;
+}
+.limit-content p, .community-content p{
+    font-size: 18px;
+    color: #3E3E3E;
+}
+
+/* Services css */
+.services-area h1{
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 54px;
+}
+.services-wrapper{
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.services-card{
+    width: 20%;
+    background: cornsilk;
+    padding: 24px;
+    text-align: center;
+    border-radius: 12px;
+}
+.services-card img {
+    width: 80px;
+    height: 80px;
+}
+.services-card h3{
+    font-size: 18px;
+}
+.services-card p{
+    font-size: 16px;
+    color: #3E3E3E;
+}
+/* Footer css */
+.footer-area{
+    background: black;
+    text-align: center;
+    padding: 20px 0;
+}
+.footer-area h1{
+    color: white;
+}
+.footer-area p{
+    color: #D9DBE1;
 }
