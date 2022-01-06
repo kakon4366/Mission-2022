@@ -38,7 +38,6 @@ section{
 .heading-color{
     color: #F59660;
 }
-
 /* Mission area css */
 .mission-content .mission-heading h1{
     font-size: 74px;
@@ -59,7 +58,6 @@ section{
     margin-top: 34px;
     color: #747474;
 }
-
 /* Mission-terget css */
 .mission-target-area h1{
     font-size: 48px;
@@ -106,7 +104,6 @@ section{
     font-size: 18px;
     color: #3E3E3E;
 }
-
 /* Services css */
 .services-area h1{
     font-size: 36px;
